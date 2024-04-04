@@ -1,0 +1,1 @@
+Remote Procedure Calls (RPC): RPC allows a process to execute a procedure or function in another process address space, as if it were a local procedure call. RPC hides the complexities of network communication and enables distributed computing.

@@ -1,0 +1,1 @@
+Pipes: Pipes are a simple form of IPC where one process writes data to a pipe, and another process reads from it. There are two types of pipes: anonymous pipes, which allow communication between parent and child processes, and named pipes (FIFOs), which allow communication between unrelated processes.

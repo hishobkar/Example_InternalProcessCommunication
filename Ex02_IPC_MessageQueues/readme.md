@@ -1,0 +1,1 @@
+Message Queues: Message queues are a form of IPC where processes send messages to and receive messages from a queue. Messages can have different types and structures, and processes can asynchronously send and receive messages from the queue.

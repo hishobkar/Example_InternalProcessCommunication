@@ -1,0 +1,1 @@
+Shared Memory: Shared memory allows multiple processes to access the same region of memory. Processes can read from and write to shared memory, enabling fast communication between them. However, shared memory requires synchronization mechanisms to ensure data consistency and avoid race conditions.

@@ -1,0 +1,14 @@
+D:\MyGithub\Example_InternalProcessCommunication\EX05_IPC_Signals\IPC_Signals\bin\Debug\net8.0\IPC_Signals.exe
+D:\MyGithub\Example_InternalProcessCommunication\EX05_IPC_Signals\IPC_Signals\bin\Debug\net8.0\IPC_Signals.deps.json
+D:\MyGithub\Example_InternalProcessCommunication\EX05_IPC_Signals\IPC_Signals\bin\Debug\net8.0\IPC_Signals.runtimeconfig.json
+D:\MyGithub\Example_InternalProcessCommunication\EX05_IPC_Signals\IPC_Signals\bin\Debug\net8.0\IPC_Signals.dll
+D:\MyGithub\Example_InternalProcessCommunication\EX05_IPC_Signals\IPC_Signals\bin\Debug\net8.0\IPC_Signals.pdb
+D:\MyGithub\Example_InternalProcessCommunication\EX05_IPC_Signals\IPC_Signals\obj\Debug\net8.0\IPC_Signals.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGithub\Example_InternalProcessCommunication\EX05_IPC_Signals\IPC_Signals\obj\Debug\net8.0\IPC_Signals.AssemblyInfoInputs.cache
+D:\MyGithub\Example_InternalProcessCommunication\EX05_IPC_Signals\IPC_Signals\obj\Debug\net8.0\IPC_Signals.AssemblyInfo.cs
+D:\MyGithub\Example_InternalProcessCommunication\EX05_IPC_Signals\IPC_Signals\obj\Debug\net8.0\IPC_Signals.csproj.CoreCompileInputs.cache
+D:\MyGithub\Example_InternalProcessCommunication\EX05_IPC_Signals\IPC_Signals\obj\Debug\net8.0\IPC_Signals.dll
+D:\MyGithub\Example_InternalProcessCommunication\EX05_IPC_Signals\IPC_Signals\obj\Debug\net8.0\refint\IPC_Signals.dll
+D:\MyGithub\Example_InternalProcessCommunication\EX05_IPC_Signals\IPC_Signals\obj\Debug\net8.0\IPC_Signals.pdb
+D:\MyGithub\Example_InternalProcessCommunication\EX05_IPC_Signals\IPC_Signals\obj\Debug\net8.0\IPC_Signals.genruntimeconfig.cache
+D:\MyGithub\Example_InternalProcessCommunication\EX05_IPC_Signals\IPC_Signals\obj\Debug\net8.0\ref\IPC_Signals.dll

@@ -1,0 +1,14 @@
+D:\MyGithub\Example_InternalProcessCommunication\Ex02_IPC_MessageQueues\IPC_MessageQueues\bin\Debug\net8.0\IPC_MessageQueues.exe
+D:\MyGithub\Example_InternalProcessCommunication\Ex02_IPC_MessageQueues\IPC_MessageQueues\bin\Debug\net8.0\IPC_MessageQueues.deps.json
+D:\MyGithub\Example_InternalProcessCommunication\Ex02_IPC_MessageQueues\IPC_MessageQueues\bin\Debug\net8.0\IPC_MessageQueues.runtimeconfig.json
+D:\MyGithub\Example_InternalProcessCommunication\Ex02_IPC_MessageQueues\IPC_MessageQueues\bin\Debug\net8.0\IPC_MessageQueues.dll
+D:\MyGithub\Example_InternalProcessCommunication\Ex02_IPC_MessageQueues\IPC_MessageQueues\bin\Debug\net8.0\IPC_MessageQueues.pdb
+D:\MyGithub\Example_InternalProcessCommunication\Ex02_IPC_MessageQueues\IPC_MessageQueues\obj\Debug\net8.0\IPC_MessageQueues.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGithub\Example_InternalProcessCommunication\Ex02_IPC_MessageQueues\IPC_MessageQueues\obj\Debug\net8.0\IPC_MessageQueues.AssemblyInfoInputs.cache
+D:\MyGithub\Example_InternalProcessCommunication\Ex02_IPC_MessageQueues\IPC_MessageQueues\obj\Debug\net8.0\IPC_MessageQueues.AssemblyInfo.cs
+D:\MyGithub\Example_InternalProcessCommunication\Ex02_IPC_MessageQueues\IPC_MessageQueues\obj\Debug\net8.0\IPC_MessageQueues.csproj.CoreCompileInputs.cache
+D:\MyGithub\Example_InternalProcessCommunication\Ex02_IPC_MessageQueues\IPC_MessageQueues\obj\Debug\net8.0\IPC_MessageQueues.dll
+D:\MyGithub\Example_InternalProcessCommunication\Ex02_IPC_MessageQueues\IPC_MessageQueues\obj\Debug\net8.0\refint\IPC_MessageQueues.dll
+D:\MyGithub\Example_InternalProcessCommunication\Ex02_IPC_MessageQueues\IPC_MessageQueues\obj\Debug\net8.0\IPC_MessageQueues.pdb
+D:\MyGithub\Example_InternalProcessCommunication\Ex02_IPC_MessageQueues\IPC_MessageQueues\obj\Debug\net8.0\IPC_MessageQueues.genruntimeconfig.cache
+D:\MyGithub\Example_InternalProcessCommunication\Ex02_IPC_MessageQueues\IPC_MessageQueues\obj\Debug\net8.0\ref\IPC_MessageQueues.dll

@@ -1,0 +1,14 @@
+D:\MyGithub\Example_InternalProcessCommunication\Ex04_IPC_Sockets\IPC_Sockets\bin\Debug\net8.0\IPC_Sockets.exe
+D:\MyGithub\Example_InternalProcessCommunication\Ex04_IPC_Sockets\IPC_Sockets\bin\Debug\net8.0\IPC_Sockets.deps.json
+D:\MyGithub\Example_InternalProcessCommunication\Ex04_IPC_Sockets\IPC_Sockets\bin\Debug\net8.0\IPC_Sockets.runtimeconfig.json
+D:\MyGithub\Example_InternalProcessCommunication\Ex04_IPC_Sockets\IPC_Sockets\bin\Debug\net8.0\IPC_Sockets.dll
+D:\MyGithub\Example_InternalProcessCommunication\Ex04_IPC_Sockets\IPC_Sockets\bin\Debug\net8.0\IPC_Sockets.pdb
+D:\MyGithub\Example_InternalProcessCommunication\Ex04_IPC_Sockets\IPC_Sockets\obj\Debug\net8.0\IPC_Sockets.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGithub\Example_InternalProcessCommunication\Ex04_IPC_Sockets\IPC_Sockets\obj\Debug\net8.0\IPC_Sockets.AssemblyInfoInputs.cache
+D:\MyGithub\Example_InternalProcessCommunication\Ex04_IPC_Sockets\IPC_Sockets\obj\Debug\net8.0\IPC_Sockets.AssemblyInfo.cs
+D:\MyGithub\Example_InternalProcessCommunication\Ex04_IPC_Sockets\IPC_Sockets\obj\Debug\net8.0\IPC_Sockets.csproj.CoreCompileInputs.cache
+D:\MyGithub\Example_InternalProcessCommunication\Ex04_IPC_Sockets\IPC_Sockets\obj\Debug\net8.0\IPC_Sockets.dll
+D:\MyGithub\Example_InternalProcessCommunication\Ex04_IPC_Sockets\IPC_Sockets\obj\Debug\net8.0\refint\IPC_Sockets.dll
+D:\MyGithub\Example_InternalProcessCommunication\Ex04_IPC_Sockets\IPC_Sockets\obj\Debug\net8.0\IPC_Sockets.pdb
+D:\MyGithub\Example_InternalProcessCommunication\Ex04_IPC_Sockets\IPC_Sockets\obj\Debug\net8.0\IPC_Sockets.genruntimeconfig.cache
+D:\MyGithub\Example_InternalProcessCommunication\Ex04_IPC_Sockets\IPC_Sockets\obj\Debug\net8.0\ref\IPC_Sockets.dll

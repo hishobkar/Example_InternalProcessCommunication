@@ -1,0 +1,14 @@
+D:\MyGithub\Example_InternalProcessCommunication\Ex01_IPC_Pipes\IPC_UsingPipes\bin\Debug\net8.0\IPC_UsingPipes.exe
+D:\MyGithub\Example_InternalProcessCommunication\Ex01_IPC_Pipes\IPC_UsingPipes\bin\Debug\net8.0\IPC_UsingPipes.deps.json
+D:\MyGithub\Example_InternalProcessCommunication\Ex01_IPC_Pipes\IPC_UsingPipes\bin\Debug\net8.0\IPC_UsingPipes.runtimeconfig.json
+D:\MyGithub\Example_InternalProcessCommunication\Ex01_IPC_Pipes\IPC_UsingPipes\bin\Debug\net8.0\IPC_UsingPipes.dll
+D:\MyGithub\Example_InternalProcessCommunication\Ex01_IPC_Pipes\IPC_UsingPipes\bin\Debug\net8.0\IPC_UsingPipes.pdb
+D:\MyGithub\Example_InternalProcessCommunication\Ex01_IPC_Pipes\IPC_UsingPipes\obj\Debug\net8.0\IPC_UsingPipes.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGithub\Example_InternalProcessCommunication\Ex01_IPC_Pipes\IPC_UsingPipes\obj\Debug\net8.0\IPC_UsingPipes.AssemblyInfoInputs.cache
+D:\MyGithub\Example_InternalProcessCommunication\Ex01_IPC_Pipes\IPC_UsingPipes\obj\Debug\net8.0\IPC_UsingPipes.AssemblyInfo.cs
+D:\MyGithub\Example_InternalProcessCommunication\Ex01_IPC_Pipes\IPC_UsingPipes\obj\Debug\net8.0\IPC_UsingPipes.csproj.CoreCompileInputs.cache
+D:\MyGithub\Example_InternalProcessCommunication\Ex01_IPC_Pipes\IPC_UsingPipes\obj\Debug\net8.0\IPC_UsingPipes.dll
+D:\MyGithub\Example_InternalProcessCommunication\Ex01_IPC_Pipes\IPC_UsingPipes\obj\Debug\net8.0\refint\IPC_UsingPipes.dll
+D:\MyGithub\Example_InternalProcessCommunication\Ex01_IPC_Pipes\IPC_UsingPipes\obj\Debug\net8.0\IPC_UsingPipes.pdb
+D:\MyGithub\Example_InternalProcessCommunication\Ex01_IPC_Pipes\IPC_UsingPipes\obj\Debug\net8.0\IPC_UsingPipes.genruntimeconfig.cache
+D:\MyGithub\Example_InternalProcessCommunication\Ex01_IPC_Pipes\IPC_UsingPipes\obj\Debug\net8.0\ref\IPC_UsingPipes.dll

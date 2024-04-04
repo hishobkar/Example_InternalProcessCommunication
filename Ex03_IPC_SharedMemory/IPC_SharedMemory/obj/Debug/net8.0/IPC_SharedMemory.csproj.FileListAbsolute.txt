@@ -1,0 +1,14 @@
+D:\MyGithub\Example_InternalProcessCommunication\Ex03_IPC_SharedMemory\IPC_SharedMemory\bin\Debug\net8.0\IPC_SharedMemory.exe
+D:\MyGithub\Example_InternalProcessCommunication\Ex03_IPC_SharedMemory\IPC_SharedMemory\bin\Debug\net8.0\IPC_SharedMemory.deps.json
+D:\MyGithub\Example_InternalProcessCommunication\Ex03_IPC_SharedMemory\IPC_SharedMemory\bin\Debug\net8.0\IPC_SharedMemory.runtimeconfig.json
+D:\MyGithub\Example_InternalProcessCommunication\Ex03_IPC_SharedMemory\IPC_SharedMemory\bin\Debug\net8.0\IPC_SharedMemory.dll
+D:\MyGithub\Example_InternalProcessCommunication\Ex03_IPC_SharedMemory\IPC_SharedMemory\bin\Debug\net8.0\IPC_SharedMemory.pdb
+D:\MyGithub\Example_InternalProcessCommunication\Ex03_IPC_SharedMemory\IPC_SharedMemory\obj\Debug\net8.0\IPC_SharedMemory.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGithub\Example_InternalProcessCommunication\Ex03_IPC_SharedMemory\IPC_SharedMemory\obj\Debug\net8.0\IPC_SharedMemory.AssemblyInfoInputs.cache
+D:\MyGithub\Example_InternalProcessCommunication\Ex03_IPC_SharedMemory\IPC_SharedMemory\obj\Debug\net8.0\IPC_SharedMemory.AssemblyInfo.cs
+D:\MyGithub\Example_InternalProcessCommunication\Ex03_IPC_SharedMemory\IPC_SharedMemory\obj\Debug\net8.0\IPC_SharedMemory.csproj.CoreCompileInputs.cache
+D:\MyGithub\Example_InternalProcessCommunication\Ex03_IPC_SharedMemory\IPC_SharedMemory\obj\Debug\net8.0\IPC_SharedMemory.dll
+D:\MyGithub\Example_InternalProcessCommunication\Ex03_IPC_SharedMemory\IPC_SharedMemory\obj\Debug\net8.0\refint\IPC_SharedMemory.dll
+D:\MyGithub\Example_InternalProcessCommunication\Ex03_IPC_SharedMemory\IPC_SharedMemory\obj\Debug\net8.0\IPC_SharedMemory.pdb
+D:\MyGithub\Example_InternalProcessCommunication\Ex03_IPC_SharedMemory\IPC_SharedMemory\obj\Debug\net8.0\IPC_SharedMemory.genruntimeconfig.cache
+D:\MyGithub\Example_InternalProcessCommunication\Ex03_IPC_SharedMemory\IPC_SharedMemory\obj\Debug\net8.0\ref\IPC_SharedMemory.dll
